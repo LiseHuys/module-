@@ -1,97 +1,348 @@
-noPractice: true
-id: r0811381PRE1
-title: 1. Zinsniveau
+id: r0800964PRE1
+title: pretest 
 hideFeedback: true
 info: >-
-    Bekijk de video en duid aan over welk dialect het gaat en waarom. 
+    Bekijk volgende oefening en duid het correcte antwoord aan. 
 assignmentSpec:
   type: selection
   opts:
-    from: video
+    from: image
     to: text
     numberOfDistractors: 3
-    presentationMode: sequential
-  numberOfItems: 9
-targetScore: 1
+    presentationMode: sequential 
+  numberOfItems: 36
+targetScore: 50
 sources: 
   - instruction: >-
-        'Ze zEgt dat ze zeker naar de zee komt.' - Er is per video één correct antwoord. Duid aan over welk dialect het gaat en waarom. 
+        Welk van onderstaande zaken is een voorbeeld van een oromyofunctionele problematiek? 
     media:
-      - kaltura: https://kuleuven.mediaspace.kaltura.com/media/WV-zezegt/1_gg4z84mj
-      - text: West-Vlaams want de [ɛ] klinkt als een [æ] omdat deze te open wordt uitgesproken.   
+      - kaltura: 
+      - text: Duimzuigen, nagelbijten en keelschrapen  
     distractors: 
-      - text: Oost-Vlaams want de [ɛ] neigt naar een [e], omdat deze te gesloten wordt uitgesproken.     
-      - text: Oost-Vlaams want de [ɛ] wordt genasaliseerd uitgesproken. 
-      - text: De [ɛ] wordt adequaat uitgesproken.
+      - text: Liplikken, nagelbijten en keelschrapen    
+      - text: Nagelbijten, liplikken en duimzuigen 
+      - text: Geen van deze antwoorden, dit is normaal gedrag tijdens het opgroeien
   - instruction: >-
-        'Gebruik de jUIste UItdrukking.' - Er is per video één correct antwoord. Duid aan over welk dialect het gaat en waarom. 
+        Welk gebit wordt op onderstaande foto weergegeven? 
     media:
-      - kaltura: https://kuleuven.mediaspace.kaltura.com/media/8-Limburg-Gebruikdejuisteuitdrukking-mond+%E2%80%90+Gemaakt+met+Clipchamp.mp4/1_sulbrjay
-      - text: Limburgs want bij de diftong /ui/ wordt er te veel nadruk gelegd op de tweede klank.      
+      - kaltura: 
+      - text: Wisselend gebit      
     distractors: 
-      - text: Oost-Vlaams want de eerste klank van de diftong /ui/ neigt naar een [Ø.] omdat deze te gesloten wordt uitgesproken. Verder is er sprake van monoftongering. 
-      - text: Antwerps of Vlaams-Brabants want er is sprake van monoftongering van de diftong /ui/.
-      - text: West-Vlaams want de eerste klank van de diftong /ui/ neigt naar een [Ø.] omdat deze te gesloten wordt uitgesproken. Verder wordt er te veel nadruk gelegd op de tweede klank. 
+      - text: Melkgebit  
+      - text: Blijvend gebit 
+      - text: Ik weet het niet 
   - instruction: >-
-        'In die kOU ben je gAUw verkOUden.' - Er is per video één correct antwoord. Duid aan over welk dialect het gaat en waarom. 
+        Wat is de juiste opdeling van de tongspieren in intrinsieke en extrinsieke spieren?
     media:
-      - kaltura: https://kuleuven.mediaspace.kaltura.com/media/37-WestVlaanderen-Indiekoubenjegauwverkouden+%E2%80%90+Gemaakt+met+Clipchamp.mp4/1_ka14p5i6
-      - text: West-Vlaams want de eerste klank van de diftong /ou/ neigt naar een [o.] omdat deze te gesloten wordt uitgesproken. De tweede klank klinkt als een [w]. 
+      - kaltura: 
+      - text: 
     distractors: 
-      - text: Oost-Vlaams want de eerste klank van de diftong /ou/ neigt naar een [o.] omdat deze te gesloten wordt uitgesproken. Verder is er sprake van monoftongering. 
-      - text: Vlaams-Brabant want er is sprake van monoftongering van de diftong /ou/.
-      - text: De diftong /ou/ wordt adequaat uitgesproken.
-  - instruction: >-
-        'Hij gaat vIssen in het mIdden van de wInter.' - Er is per video één correct antwoord. Duid aan over welk dialect het gaat en waarom. 
+      - text: 
+      - text: 
+      - text: 
+-  instruction: >-
+        Welk slikpatroon hoort bij volgende omschrijving "bij een ... slikpatroon gaat de tong zicht tijdens de slik naar voren, tussen de tanden, begeven." 
     media:
-      - kaltura: https://kuleuven.mediaspace.kaltura.com/media/40-VlaamsBrabant-Hijgaatvisseninhetmiddenvandewinter-mond+%E2%80%90+Gemaakt+met+Clipchamp.mp4/1_s725scq6
-      - text: Antwerps of Vlaams-Brabants want de [ɪ] klinkt eerder als een [i] omdat deze te gesloten wordt uitgesproken.     
+      - kaltura: 
+      - text: 
     distractors: 
-      - text: West-Vlaams of Oost-Vlaams want de [ɪ] klinkt eerder als een [ɛ] omdat deze te open wordt uitgesproken.  
-      - text: Antwerps of Vlaams-Brabants want de [ɪ] wordt verlengd uitgesproken. 
-      - text: De [ɪ] wordt adequaat uitgesproken. 
-  - instruction: >-
-        'De dAkpan valt van het dAk Af.' - Er is per video één correct antwoord. Duid aan over welk dialect het gaat en waarom. 
+      - text: 
+      - text: 
+      - text: 
+-  instruction: >-
+       Wat betekent volgend begrip 'crowding'
     media:
-      - kaltura: https://kuleuven.mediaspace.kaltura.com/media/A-dedakpan/1_txh61kl9
-      - text: Antwerps want de [ɑ] wordt met een tongwelving te veel vooraan uitgesproken. Er is te veel spreiding en te weinig kaakval aanwezig.     
+      - kaltura: 
+      - text: 
     distractors: 
-      - text: Antwerps want de [ɑ] neigt meer naar een [ɔ], omdat deze met te veel spreiding wordt uitgesproken.        
-      - text: Oost-Vlaams want de [ɑ] klinkt eerder als een [a], omdat deze met te veel spreiding wordt uitgesproken.          
-      - text: Oost-Vlaams want de [ɑ] neigt meer naar een [ɔ], omdat deze met te veel kaakval wordt uitgesproken. 
-  - instruction: >-
-         'Er krUIpt een mUIs in de tUIn' - Er is per video één correct antwoord. Duid aan over welk dialect het gaat en waarom. 
+      - text: 
+      - text: 
+      - text: 
+-  instruction: >-
+       Wat is de juiste definitie van disto-occlusie
     media:
-      - kaltura: https://kuleuven.mediaspace.kaltura.com/media/4-Antwerpen-Erkruipteenmuisindetuin-mond+%E2%80%90+Gemaakt+met+Clipchamp.mp4/1_xtzwaoy7
-      - text: Vlaams-Brabants of Antwerps want er is sprake van monoftongering van de diftong /ui/. 
+      - kaltura: 
+      - text: 
     distractors: 
-      - text: Oost-Vlaams want de eerste klank van de diftong /ui/ neigt naar een [Ø.] omdat deze te gesloten wordt uitgesproken. Verder is er sprake van monoftongering. 
-      - text: West-Vlaams of Limburgs want de eerste klank van de diftong /ui/ neigt naar een [Ø.] omdat deze te gesloten wordt uitgesproken.
-      - text: De diftong /ui/ wordt adequaat uitgesproken. 
-  - instruction: >-
-        'De lEIder heeft ongetwIJfeld gelIJk.' - Er is per video één correct antwoord. Duid aan over welk dialect het gaat en waarom. 
+      - text: 
+      - text: 
+      - text: 
+ -  instruction: >-
+       Welke anatomische structuur wordt op onderstaande afbeelding aangeduid? 
     media:
-      - kaltura: https://kuleuven.mediaspace.kaltura.com/media/27-Limburg-Deleider+%E2%80%90+Gemaakt+met+Clipchamp.mp4/1_86etdy9e
-      - text: Limburgs want bij de diftong /ei/ wordt er te veel nadruk gelegd op de tweede klank. 
+      - kaltura: 
+      - text: 
     distractors: 
-      - text: Antwerps of Vlaams-Brabants want de eerste klank van de diftong /ei/ klinkt eerder als een [ӕ.] omdat deze te open wordt uitgesproken. Verder is er sprake van monoftongering. 
-      - text: Limburgs want de eerste klank van de diftong /ei/ neigt naar een [e.] omdat deze te open wordt uitgesproken. Verder wordt de diftong verlengd.
-      - text: De diftong /ei/ wordt adequaat uitgesproken. 
-  - instruction: >-
-        'De bOOr schOOt met een stOOt naar vOren.' - Er is per video één correct antwoord. Duid aan over welk dialect het gaat en waarom. 
+      - text: 
+      - text: 
+      - text: 
+-  instruction: >-
+     Wat is de benaming van de aangeduide tanden?   
     media:
-      - kaltura: https://kuleuven.mediaspace.kaltura.com/media/OV-deboor/1_rfyrceih
-      - text: Vlaams-Brabants want de [o:] en de [o.] worden verlengd en ongerond uitgesproken.     
+      - kaltura: 
+      - text: 
     distractors: 
-      - text: Antwerps want de [o:] wordt gediftongeerd.   
-      - text: Antwerps want de [o:] en de [o.] worden verlengd uitgesproken.  
-      - text: De [o:] en de [o.] worden adequaat uitgesproken.  
-  - instruction: >-
-        'De puber gaf de Uk een duw tijdens een ruzie' - Er is per video één correct antwoord. Duid aan over welk dialect het gaat en waarom. 
+      - text: 
+      - text: 
+      - text: 
+-  instruction: >-
+      Zou u denken dat addentaliteit een oromyofunctionele problematiek is? 
     media:
-      - kaltura: https://kuleuven.mediaspace.kaltura.com/media/WV-depuber/1_107oq31m
-      - text: West-Vlaams want de [ʌ] klinkt als een [œ], omdat deze te open en ongerond wordt uitgesproken.   
+      - kaltura: 
+      - text: 
     distractors: 
-      - text: Limburgs want de [ʌ] wordt verlengd uitgesproken.
-      - text: West-Vlaams want de [ʌ] klinkt als een [y], omdat deze te gesloten wordt uitgesproken.  
-      - text: Oost-Vlaams want de [ʌ] wordt ongerond uitgesproken.
+      - text: 
+      - text: 
+      - text: 
+-  instruction: >-
+       Zou u denken dat addentaliteit een oromyofunctionele problematiek is? 
+    media:
+      - kaltura: 
+      - text: 
+    distractors: 
+      - text: 
+      - text: 
+      - text: 
+-  instruction: >-
+       Zou u denken dat foutief stemgebruik (bv. heesheid) een oromyofunctionele problematiek is? 
+    media:
+      - kaltura: 
+      - text: 
+    distractors: 
+      - text: 
+      - text: 
+      - text: 
+-  instruction: >-
+       Kan een verkeerde tongpositie tijdens het slikken een invloed hebben op de stand van de tanden? 
+    media:
+      - kaltura: 
+      - text: 
+    distractors: 
+      - text: 
+      - text: 
+      - text: 
+-  instruction: >-
+       Wat is hier afgebeeld? 
+    media:
+      - kaltura: 
+      - text: 
+    distractors: 
+      - text: 
+      - text: 
+      - text: 
+-  instruction: >-
+       Wat is hier afgebeeld? 
+    media:
+      - kaltura: 
+      - text: 
+    distractors: 
+      - text: 
+      - text: 
+      - text: 
+-  instruction: >-
+       Wat is heir afgebeeld? 
+    media:
+      - kaltura: 
+      - text: 
+    distractors: 
+      - text: 
+      - text: 
+      - text: 
+-  instruction: >-
+       Welke nummering hoort bij de aangeduide tanden? 
+    media:
+      - kaltura: 
+      - text: 
+    distractors: 
+      - text: 
+      - text: 
+      - text: 
+-  instruction: >-
+       Welke spier wordt er op deze afbeelding aangeduid? 
+    media:
+      - kaltura: 
+      - text: 
+    distractors: 
+      - text: 
+      - text: 
+      - text: 
+-  instruction: >-
+       Welk achterliggend slikpatroon verwacht u bij het zien van deze beet?
+    media:
+      - kaltura: 
+      - text: 
+    distractors: 
+      - text: 
+      - text: 
+      - text: 
+-  instruction: >-
+       Welke definitie hoort bij het begrip 'diasteem'?
+    media:
+      - kaltura: 
+      - text: 
+    distractors: 
+      - text: 
+      - text: 
+      - text: 
+-  instruction: >-
+       Wat is de fucntie van de m. mentalis?
+    media:
+      - kaltura: 
+      - text: 
+    distractors: 
+      - text: 
+      - text: 
+      - text: 
+-  instruction: >-
+       Welk slikpatroon wordt er weergegeven op onderstaande video? 
+    media:
+      - kaltura: 
+      - text: 
+    distractors: 
+      - text: 
+      - text: 
+      - text: 
+-  instruction: >-
+       Welk type occlusie wordt er weergegeven op onderstaande foto? 
+    media:
+      - kaltura: 
+      - text: 
+    distractors: 
+      - text: 
+      - text: 
+      - text: 
+-  instruction: >-
+       Welke anatomische structuur wordt er op deze foto aangeduid?
+    media:
+      - kaltura: 
+      - text: 
+    distractors: 
+      - text: 
+      - text: 
+      - text: 
+-  instruction: >-
+       Welke spier wordt er aangeduid op onderstaande afbeelding?
+    media:
+      - kaltura: 
+      - text: 
+    distractors: 
+      - text: 
+      - text: 
+      - text: 
+-  instruction: >-
+       Wat is de definitie van occlusie type II.2?
+    media:
+      - kaltura: 
+      - text: 
+    distractors: 
+      - text: 
+      - text: 
+      - text: 
+-  instruction: >-
+       Welke onderdelen van de lip worden hier aangeduid? 
+    media:
+      - kaltura: 
+      - text: 
+    distractors: 
+      - text: 
+      - text: 
+      - text: 
+-  instruction: >-
+       Welke spier vervult volgende functie 'het eleveren van de mondhoek en het naar achter plaatsen hiervan.'?
+    media:
+      - kaltura: 
+      - text: 
+    distractors: 
+      - text: 
+      - text: 
+      - text: 
+-  instruction: >-
+       Wat is de juiste definitie van de normale rustpositie van de tong? 
+    media:
+      - kaltura: 
+      - text: 
+    distractors: 
+      - text: 
+      - text: 
+      - text: 
+-  instruction: >-
+       Welke functie vervult de m. styloglossus 
+    media:
+      - kaltura: 
+      - text: 
+    distractors: 
+      - text: 
+      - text: 
+      - text: 
+-  instruction: >-
+       Wat is de beste uitleg voor het begrip 'ankyloglossie'?
+    media:
+      - kaltura: 
+      - text: 
+    distractors: 
+      - text: 
+      - text: 
+      - text: 
+-  instruction: >-
+       Welke spier wordt er op deze afbeelding aangeduid?
+    media:
+      - kaltura: 
+      - text: 
+    distractors: 
+      - text: 
+      - text: 
+      - text: 
+-  instruction: >-
+       Wat is de jusite indeling van kwadranten in de orale caviteit?
+    media:
+      - kaltura: 
+      - text: 
+    distractors: 
+      - text: 
+      - text: 
+      - text: 
+-  instruction: >-
+       Welke anatomische structuur wordt er aangeudid op onderstaande foto? 
+    media:
+      - kaltura: 
+      - text: 
+    distractors: 
+      - text: 
+      - text: 
+      - text: 
+-  instruction: >-
+       Welke spier wordt aangeduid op onderstaande afbeelding?
+    media:
+      - kaltura: 
+      - text: 
+    distractors: 
+      - text: 
+      - text: 
+      - text: 
+-  instruction: >-
+       Wat valt er op bij deze beet?
+    media:
+      - kaltura: 
+      - text: 
+    distractors: 
+      - text: 
+      - text: 
+      - text: 
+-  instruction: >-
+       Wat valt er op in het onderfront?
+    media:
+      - kaltura: 
+      - text: 
+    distractors: 
+      - text: 
+      - text: 
+      - text: 
+-  instruction: >-
+       Wat valt er op in het bovenfront? 
+    media:
+      - kaltura: 
+      - text: 
+    distractors: 
+      - text: 
+      - text: 
+      - text: 
