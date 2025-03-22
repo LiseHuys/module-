@@ -89,260 +89,251 @@ sources:
       Zou u denken dat addentaliteit een oromyofunctionele problematiek is? 
     media:
       - kaltura: 
-      - text: 
+      - text: Ja
     distractors: 
-      - text: 
-      - text: 
-      - text: 
--  instruction: >-
-       Zou u denken dat addentaliteit een oromyofunctionele problematiek is? 
-    media:
-      - kaltura: 
-      - text: 
-    distractors: 
-      - text: 
-      - text: 
-      - text: 
+      - text: Nee
+      - text: Soms
+      - text: Ik weet het niet 
 -  instruction: >-
        Zou u denken dat foutief stemgebruik (bv. heesheid) een oromyofunctionele problematiek is? 
     media:
       - kaltura: 
-      - text: 
+      - text: Nee
     distractors: 
-      - text: 
-      - text: 
-      - text: 
+      - text: Ja
+      - text: Soms
+      - text: Ik weet het niet 
 -  instruction: >-
-       Kan een verkeerde tongpositie tijdens het slikken een invloed hebben op de stand van de tanden? 
+      Kan een verkeerde tongpositie tijdens het slikken een invloed hebben op de stand van de tanden?
     media:
       - kaltura: 
-      - text: 
+      - text: Ja
     distractors: 
-      - text: 
-      - text: 
-      - text: 
--  instruction: >-
-       Wat is hier afgebeeld? 
-    media:
-      - kaltura: 
-      - text: 
-    distractors: 
-      - text: 
-      - text: 
-      - text: 
+      - text: Nee
+      - text: Soms
+      - text: Ik weet het niet 
 -  instruction: >-
        Wat is hier afgebeeld? 
     media:
       - kaltura: 
-      - text: 
+      - text: Overbeet 
     distractors: 
-      - text: 
-      - text: 
-      - text: 
+      - text: Overjet
+      - text: Open beet 
+      - text: Ik weet het niet 
 -  instruction: >-
-       Wat is heir afgebeeld? 
+       Wat is hier afgebeeld? 
     media:
       - kaltura: 
-      - text: 
+      - text: Deviatie middenlijn 
     distractors: 
-      - text: 
-      - text: 
-      - text: 
+      - text: Crowding
+      - text: Diasteem
+      - text: Ik weet het niet 
+-  instruction: >-
+       Wat is hier afgebeeld? 
+    media:
+      - kaltura: 
+      - text: Diepe beet
+    distractors: 
+      - text: Open beet
+      - text: Overbeet
+      - text: Ik weet het niet 
 -  instruction: >-
        Welke nummering hoort bij de aangeduide tanden? 
     media:
       - kaltura: 
-      - text: 
+      - text: A=13, B=31, C=22
     distractors: 
-      - text: 
-      - text: 
-      - text: 
+      - text: A=31, B=13, C=22
+      - text: A=13, B=41, C=22
+      - text: Ik weet het niet
 -  instruction: >-
        Welke spier wordt er op deze afbeelding aangeduid? 
     media:
       - kaltura: 
-      - text: 
+      - text: m. masseter
     distractors: 
-      - text: 
-      - text: 
-      - text: 
+      - text: m. mentalis
+      - text: m. orbicularis oris 
+      - text: Ik weet het niet 
 -  instruction: >-
        Welk achterliggend slikpatroon verwacht u bij het zien van deze beet?
     media:
       - kaltura: 
-      - text: 
+      - text: Interdentaal slikpatroon
     distractors: 
-      - text: 
-      - text: 
-      - text: 
+      - text: Infantiel slikpatroon
+      - text: Addentaal slikpatroon
+      - text: Ik weet het niet 
 -  instruction: >-
        Welke definitie hoort bij het begrip 'diasteem'?
     media:
       - kaltura: 
-      - text: 
+      - text: Men spreekt over een diasteem wanneer er een open ruimte of spleet aanwezig is tussen twee aangrenzende gebitselementen
     distractors: 
-      - text: 
-      - text: 
-      - text: 
+      - text: Men spreekt over een diasteem wanneer er voor de tanden te weinig plaats is in de tandenboog om correct door te breken waardoor de tanden zullen verschuiven en scheef komen te staan 
+      - text: Men spreekt over een diasteem wanneer er een tand mist in de tandenboog
+      - text: Ik weet het niet 
 -  instruction: >-
-       Wat is de fucntie van de m. mentalis?
+       Wat is de functie van de m. mentalis?
     media:
       - kaltura: 
-      - text: 
+      - text: De heffing en protrusie van de kin
     distractors: 
-      - text: 
-      - text: 
-      - text: 
+      - text: Het naar binnen trekken van de wangen
+      - text: Het tuiten en samentrekken van de lippen
+      - text: Ik weet het niet
 -  instruction: >-
        Welk slikpatroon wordt er weergegeven op onderstaande video? 
     media:
       - kaltura: 
-      - text: 
+      - text: Normaal slikpatroon
     distractors: 
-      - text: 
-      - text: 
-      - text: 
+      - text: Interdentaal slikpatroon
+      - text: Addentaal slikpatroon
+      - text: Ik weet het niet 
 -  instruction: >-
        Welk type occlusie wordt er weergegeven op onderstaande foto? 
     media:
       - kaltura: 
-      - text: 
+      - text: Disto-occlusie
     distractors: 
-      - text: 
-      - text: 
-      - text: 
+      - text: Neutro-occlusie
+      - text: Mesio-occlusie
+      - text: Ik weet het niet 
 -  instruction: >-
        Welke anatomische structuur wordt er op deze foto aangeduid?
     media:
       - kaltura: 
-      - text: 
+      - text: Farynxachterwand
     distractors: 
-      - text: 
-      - text: 
-      - text: 
+      - text: Keelholte
+      - text: Zacht verhemelte
+      - text: Ik weet het niet 
 -  instruction: >-
        Welke spier wordt er aangeduid op onderstaande afbeelding?
     media:
       - kaltura: 
-      - text: 
+      - text: m. levator labii superioris
     distractors: 
-      - text: 
-      - text: 
-      - text: 
+      - text: m. buccinator
+      - text: m. depressor labii inferioris 
+      - text: Ik weet het niet 
 -  instruction: >-
        Wat is de definitie van occlusie type II.2?
     media:
       - kaltura: 
-      - text: 
+      - text: Type II.2 occlusie wordt gekenmerkt door een linguale inclinatie van de maxillaire centrale incisieven
     distractors: 
-      - text: 
-      - text: 
-      - text: 
+      - text: Type II.2 occlusie wordt gekenmerkt door maxillaire incisieven die een normale labiale inclinatie vertonen
+      - text: Type II.2 occlusie wordt gekenmerkt door een opening tussen tanden van de maxilla en de mandibula
+      - text: Ik weet het niet 
 -  instruction: >-
        Welke onderdelen van de lip worden hier aangeduid? 
     media:
       - kaltura: 
-      - text: 
+      - text: Het philtrum (paars) en de commissuur (rood)
     distractors: 
-      - text: 
-      - text: 
-      - text: 
+      - text: De commissuur (paars) en de cupidoboog (rood)
+      - text: De vermiljoenrand (paars) en de cupidoboog (rood)
+      - text: Ik weet het niet 
 -  instruction: >-
        Welke spier vervult volgende functie 'het eleveren van de mondhoek en het naar achter plaatsen hiervan.'?
     media:
       - kaltura: 
-      - text: 
+      - text: m. zygomaticus
     distractors: 
-      - text: 
-      - text: 
-      - text: 
+      - text: m. platysma
+      - text: m. risorius
+      - text: Ik weet het niet 
 -  instruction: >-
        Wat is de juiste definitie van de normale rustpositie van de tong? 
     media:
       - kaltura: 
-      - text: 
+      - text: In rust is de tong aangezogen tegen het verhemelte waarbij de tongtip op of tegen de alveolaire richel rust zonder hierbij contact te maken met de tanden van de maxilla
     distractors: 
-      - text: 
-      - text: 
-      - text: 
+      - text: In rust ligt de tong op de mondbodem en rust de tongtip lichtjes tegen tanden van de mandibula
+      - text: In rust ligt de tong op de mondbodem en rust de tongtip op of tegen de alveolaire richel zonder hierbij contact te maken met de tanden van de maxilla
+      - text: Ik weet het niet 
 -  instruction: >-
        Welke functie vervult de m. styloglossus 
     media:
       - kaltura: 
-      - text: 
+      - text: m. styloglossus staat in voor de retrusie van de tong en de elevatie van de laterale delen
     distractors: 
-      - text: 
-      - text: 
-      - text: 
+      - text: m. styloglossus staat in voor de elevatie van het achterste deel van de tong en initiatie van de slik
+      - text: m. styloglossus staat in voor de depressie van de onderlip
+      - text: Ik weet het niet 
 -  instruction: >-
        Wat is de beste uitleg voor het begrip 'ankyloglossie'?
     media:
       - kaltura: 
-      - text: 
+      - text: Ankyloglossie is een aangeboren aandoening waarbij de tongriem te kort of te strak is
     distractors: 
-      - text: 
-      - text: 
-      - text: 
+      - text: Ankyloglossie is een aangeboren aandoening waarbij de tong te breed is om in de mondholte te passen
+      - text: Ankyloglossie is een aangeboren aandoening waarbij de speekselklieren on de tong afwezig zijn
+      - text: Ik weet het niet 
 -  instruction: >-
        Welke spier wordt er op deze afbeelding aangeduid?
     media:
       - kaltura: 
-      - text: 
+      - text: m. buccinator
     distractors: 
-      - text: 
-      - text: 
-      - text: 
+      - text: m. platysma
+      - text: m. zygomaticus
+      - text: Ik weet het niet 
 -  instruction: >-
-       Wat is de jusite indeling van kwadranten in de orale caviteit?
+       Wat is de juiste indeling van kwadranten in de orale caviteit?
     media:
       - kaltura: 
-      - text: 
+      - text: rood = kwadrant 1, groen = kwadrant 3, blauw = kwadrant 4, geel = kwadrant 2
     distractors: 
-      - text: 
-      - text: 
-      - text: 
+      - text: rood = kwadrant 2, groen = kwadrant 3, blauw = kwadrant 4, geel = kwadrant 1
+      - text: rood = kwadrant 1, groen = kwadrant 4, blauw = kwadrant 2, geel = kwadrant 3
+      - text: Ik weet het niet 
 -  instruction: >-
        Welke anatomische structuur wordt er aangeudid op onderstaande foto? 
     media:
       - kaltura: 
-      - text: 
+      - text: Palatoglossale boog
     distractors: 
-      - text: 
-      - text: 
-      - text: 
+      - text: Palatopharyngeale boog 
+      - text: Tonsillen
+      - text: Ik weet het niet 
 -  instruction: >-
        Welke spier wordt aangeduid op onderstaande afbeelding?
     media:
       - kaltura: 
-      - text: 
+      - text: m. mentalis
     distractors: 
-      - text: 
-      - text: 
-      - text: 
+      - text: m. pterygoideus
+      - text: m. depressor anguli oris 
+      - text: Ik weet het niet 
 -  instruction: >-
        Wat valt er op bij deze beet?
     media:
       - kaltura: 
-      - text: 
+      - text: Beide zijn correct
     distractors: 
-      - text: 
-      - text: 
-      - text: 
+      - text: Er is een opening tussen de voorste tanden van de maxilla en de mandibula. Dit wordt een anterieure open beet genoemd
+      - text: De tanden van de maxilla staan meer naar voren staan dan de tanden van de mandibula. Dit wordt een horizontale overbeet genoemd
+      - text: Ik weet het niet 
 -  instruction: >-
        Wat valt er op in het onderfront?
     media:
       - kaltura: 
-      - text: 
+      - text: Crowding 
     distractors: 
-      - text: 
-      - text: 
-      - text: 
+      - text: Niets opvallend
+      - text: Ectopische eruptie
+      - text: Ik weet het niet 
 -  instruction: >-
        Wat valt er op in het bovenfront? 
     media:
       - kaltura: 
-      - text: 
+      - text: Diasteem
     distractors: 
-      - text: 
-      - text: 
-      - text: 
+      - text: Crowding
+      - text: Niets opvallend
+      - text: Ik weet het niet 
