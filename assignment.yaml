@@ -35,56 +35,56 @@ sources:
         Wat is de juiste opdeling van de tongspieren in intrinsieke en extrinsieke spieren?
     media:
       - kaltura: 
-      - text: 
+      - text: Intrinsiek: m. longitudinalis inferior, m. longitudinalis superior, m. transversus, m. verticalis lingua. Extrinsiek:  m. genioglossus, m. styloglossus, m. hyoglossus en m. palatoglossus
     distractors: 
-      - text: 
-      - text: 
-      - text: 
+      - text: Intrinsiek: m. longitudinalis inferior, m. palatoglossus, m. transversus, m. verticalis lingua. Extrinsiek:  m. genioglossus, m. styloglossus, m. hyoglossus en m. longitudinalis superior
+      - text: Intrinsiek: m. genioglossus, m. styloglossus, m. hyoglossus en m. longitudinalis superior Extrinsiek:  m. longitudinalis inferior, m. palatoglossus, m. transversus, m. verticalis lingua
+      - text: Ik weet het niet 
 -  instruction: >-
         Welk slikpatroon hoort bij volgende omschrijving "bij een ... slikpatroon gaat de tong zicht tijdens de slik naar voren, tussen de tanden, begeven." 
     media:
       - kaltura: 
-      - text: 
+      - text: Interdentaal
     distractors: 
-      - text: 
-      - text: 
-      - text: 
+      - text: Infantiel
+      - text: Addentaal
+      - text: Ik weet het niet 
 -  instruction: >-
        Wat betekent volgend begrip 'crowding'
     media:
       - kaltura: 
-      - text: 
+      - text: Men spreekt van crowding wanneer er voor de tanden te weinig plaats is in de tandenboog om correct door te breken waardoor de tanden zullen verschuiven en scheef komen te staan. 
     distractors: 
-      - text: 
-      - text: 
-      - text: 
+      - text: Men spreekt van crowding wanneer een tand niet in de juiste positie doorbreekt in de tandenboog
+      - text: Men spreekt van crowding wanneer er een open ruimte of spleet aanwezig is tussen twee aangrenzende gebitselementen
+      - text: Ik weet het niet 
 -  instruction: >-
        Wat is de juiste definitie van disto-occlusie
     media:
       - kaltura: 
-      - text: 
+      - text: Men spreekt van disto-occlusie wanneer de mandibula relatief te klein is en/of de maxilla te groot.
     distractors: 
-      - text: 
-      - text: 
-      - text: 
+      - text: Men spreekt van disto-occlusie wanneer er sprake is van een opening tussen tanden van de maxilla en de mandibula.
+      - text: Men spreekt van disto-occlusie wanneer de mandibulaire tandenboog zich anterieur positioneert ten opzichte van de maxillaire tandenboog.
+      - text: Ik weet het niet 
  -  instruction: >-
        Welke anatomische structuur wordt op onderstaande afbeelding aangeduid? 
     media:
       - kaltura: 
-      - text: 
+      - text: Tongfrenulum
     distractors: 
-      - text: 
-      - text: 
-      - text: 
+      - text: Lingua plicata
+      - text: Tongrand
+      - text: Ik weet het niet 
 -  instruction: >-
      Wat is de benaming van de aangeduide tanden?   
     media:
       - kaltura: 
-      - text: 
+      - text: Rood = een cuspidaat, groen = molaar, blauw = incisief
     distractors: 
-      - text: 
-      - text: 
-      - text: 
+      - text: Rood = incisief, groen = premolaar, blauw = cuspidaat 
+      - text: Rood = cuspidaat, groen = premolaar, blauw = incisief 
+      - text: Ik weet het niet 
 -  instruction: >-
       Zou u denken dat addentaliteit een oromyofunctionele problematiek is? 
     media:
