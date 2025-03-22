@@ -1,0 +1,97 @@
+noPractice: true
+id: r0811381PRE1
+title: 1. Zinsniveau
+hideFeedback: true
+info: >-
+    Bekijk de video en duid aan over welk dialect het gaat en waarom. 
+assignmentSpec:
+  type: selection
+  opts:
+    from: video
+    to: text
+    numberOfDistractors: 3
+    presentationMode: sequential
+  numberOfItems: 9
+targetScore: 1
+sources: 
+  - instruction: >-
+        'Ze zEgt dat ze zeker naar de zee komt.' - Er is per video één correct antwoord. Duid aan over welk dialect het gaat en waarom. 
+    media:
+      - kaltura: https://kuleuven.mediaspace.kaltura.com/media/WV-zezegt/1_gg4z84mj
+      - text: West-Vlaams want de [ɛ] klinkt als een [æ] omdat deze te open wordt uitgesproken.   
+    distractors: 
+      - text: Oost-Vlaams want de [ɛ] neigt naar een [e], omdat deze te gesloten wordt uitgesproken.     
+      - text: Oost-Vlaams want de [ɛ] wordt genasaliseerd uitgesproken. 
+      - text: De [ɛ] wordt adequaat uitgesproken.
+  - instruction: >-
+        'Gebruik de jUIste UItdrukking.' - Er is per video één correct antwoord. Duid aan over welk dialect het gaat en waarom. 
+    media:
+      - kaltura: https://kuleuven.mediaspace.kaltura.com/media/8-Limburg-Gebruikdejuisteuitdrukking-mond+%E2%80%90+Gemaakt+met+Clipchamp.mp4/1_sulbrjay
+      - text: Limburgs want bij de diftong /ui/ wordt er te veel nadruk gelegd op de tweede klank.      
+    distractors: 
+      - text: Oost-Vlaams want de eerste klank van de diftong /ui/ neigt naar een [Ø.] omdat deze te gesloten wordt uitgesproken. Verder is er sprake van monoftongering. 
+      - text: Antwerps of Vlaams-Brabants want er is sprake van monoftongering van de diftong /ui/.
+      - text: West-Vlaams want de eerste klank van de diftong /ui/ neigt naar een [Ø.] omdat deze te gesloten wordt uitgesproken. Verder wordt er te veel nadruk gelegd op de tweede klank. 
+  - instruction: >-
+        'In die kOU ben je gAUw verkOUden.' - Er is per video één correct antwoord. Duid aan over welk dialect het gaat en waarom. 
+    media:
+      - kaltura: https://kuleuven.mediaspace.kaltura.com/media/37-WestVlaanderen-Indiekoubenjegauwverkouden+%E2%80%90+Gemaakt+met+Clipchamp.mp4/1_ka14p5i6
+      - text: West-Vlaams want de eerste klank van de diftong /ou/ neigt naar een [o.] omdat deze te gesloten wordt uitgesproken. De tweede klank klinkt als een [w]. 
+    distractors: 
+      - text: Oost-Vlaams want de eerste klank van de diftong /ou/ neigt naar een [o.] omdat deze te gesloten wordt uitgesproken. Verder is er sprake van monoftongering. 
+      - text: Vlaams-Brabant want er is sprake van monoftongering van de diftong /ou/.
+      - text: De diftong /ou/ wordt adequaat uitgesproken.
+  - instruction: >-
+        'Hij gaat vIssen in het mIdden van de wInter.' - Er is per video één correct antwoord. Duid aan over welk dialect het gaat en waarom. 
+    media:
+      - kaltura: https://kuleuven.mediaspace.kaltura.com/media/40-VlaamsBrabant-Hijgaatvisseninhetmiddenvandewinter-mond+%E2%80%90+Gemaakt+met+Clipchamp.mp4/1_s725scq6
+      - text: Antwerps of Vlaams-Brabants want de [ɪ] klinkt eerder als een [i] omdat deze te gesloten wordt uitgesproken.     
+    distractors: 
+      - text: West-Vlaams of Oost-Vlaams want de [ɪ] klinkt eerder als een [ɛ] omdat deze te open wordt uitgesproken.  
+      - text: Antwerps of Vlaams-Brabants want de [ɪ] wordt verlengd uitgesproken. 
+      - text: De [ɪ] wordt adequaat uitgesproken. 
+  - instruction: >-
+        'De dAkpan valt van het dAk Af.' - Er is per video één correct antwoord. Duid aan over welk dialect het gaat en waarom. 
+    media:
+      - kaltura: https://kuleuven.mediaspace.kaltura.com/media/A-dedakpan/1_txh61kl9
+      - text: Antwerps want de [ɑ] wordt met een tongwelving te veel vooraan uitgesproken. Er is te veel spreiding en te weinig kaakval aanwezig.     
+    distractors: 
+      - text: Antwerps want de [ɑ] neigt meer naar een [ɔ], omdat deze met te veel spreiding wordt uitgesproken.        
+      - text: Oost-Vlaams want de [ɑ] klinkt eerder als een [a], omdat deze met te veel spreiding wordt uitgesproken.          
+      - text: Oost-Vlaams want de [ɑ] neigt meer naar een [ɔ], omdat deze met te veel kaakval wordt uitgesproken. 
+  - instruction: >-
+         'Er krUIpt een mUIs in de tUIn' - Er is per video één correct antwoord. Duid aan over welk dialect het gaat en waarom. 
+    media:
+      - kaltura: https://kuleuven.mediaspace.kaltura.com/media/4-Antwerpen-Erkruipteenmuisindetuin-mond+%E2%80%90+Gemaakt+met+Clipchamp.mp4/1_xtzwaoy7
+      - text: Vlaams-Brabants of Antwerps want er is sprake van monoftongering van de diftong /ui/. 
+    distractors: 
+      - text: Oost-Vlaams want de eerste klank van de diftong /ui/ neigt naar een [Ø.] omdat deze te gesloten wordt uitgesproken. Verder is er sprake van monoftongering. 
+      - text: West-Vlaams of Limburgs want de eerste klank van de diftong /ui/ neigt naar een [Ø.] omdat deze te gesloten wordt uitgesproken.
+      - text: De diftong /ui/ wordt adequaat uitgesproken. 
+  - instruction: >-
+        'De lEIder heeft ongetwIJfeld gelIJk.' - Er is per video één correct antwoord. Duid aan over welk dialect het gaat en waarom. 
+    media:
+      - kaltura: https://kuleuven.mediaspace.kaltura.com/media/27-Limburg-Deleider+%E2%80%90+Gemaakt+met+Clipchamp.mp4/1_86etdy9e
+      - text: Limburgs want bij de diftong /ei/ wordt er te veel nadruk gelegd op de tweede klank. 
+    distractors: 
+      - text: Antwerps of Vlaams-Brabants want de eerste klank van de diftong /ei/ klinkt eerder als een [ӕ.] omdat deze te open wordt uitgesproken. Verder is er sprake van monoftongering. 
+      - text: Limburgs want de eerste klank van de diftong /ei/ neigt naar een [e.] omdat deze te open wordt uitgesproken. Verder wordt de diftong verlengd.
+      - text: De diftong /ei/ wordt adequaat uitgesproken. 
+  - instruction: >-
+        'De bOOr schOOt met een stOOt naar vOren.' - Er is per video één correct antwoord. Duid aan over welk dialect het gaat en waarom. 
+    media:
+      - kaltura: https://kuleuven.mediaspace.kaltura.com/media/OV-deboor/1_rfyrceih
+      - text: Vlaams-Brabants want de [o:] en de [o.] worden verlengd en ongerond uitgesproken.     
+    distractors: 
+      - text: Antwerps want de [o:] wordt gediftongeerd.   
+      - text: Antwerps want de [o:] en de [o.] worden verlengd uitgesproken.  
+      - text: De [o:] en de [o.] worden adequaat uitgesproken.  
+  - instruction: >-
+        'De puber gaf de Uk een duw tijdens een ruzie' - Er is per video één correct antwoord. Duid aan over welk dialect het gaat en waarom. 
+    media:
+      - kaltura: https://kuleuven.mediaspace.kaltura.com/media/WV-depuber/1_107oq31m
+      - text: West-Vlaams want de [ʌ] klinkt als een [œ], omdat deze te open en ongerond wordt uitgesproken.   
+    distractors: 
+      - text: Limburgs want de [ʌ] wordt verlengd uitgesproken.
+      - text: West-Vlaams want de [ʌ] klinkt als een [y], omdat deze te gesloten wordt uitgesproken.  
+      - text: Oost-Vlaams want de [ʌ] wordt ongerond uitgesproken.
