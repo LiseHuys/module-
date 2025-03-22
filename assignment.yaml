@@ -1,97 +1,342 @@
 noPractice: true
-id: r0811381PRE1
-title: 1. Zinsniveau
+id: r080964PRE1
+title: Pretest
 hideFeedback: true
 info: >-
-    Bekijk de video en duid aan over welk dialect het gaat en waarom. 
+    Voor onze thesis rond oromyofunctionele problematieken werd er een module opgesteld in PerceptionLab over dit onderwerp. Deze test is volledig anoniem en is bedoeld om uw vaardigheid in kaart te brengen voordat u de online module doorloopt. Tracht de vragen steeds eerlijk te beantwoorden, zo kunnen wij een betrouwbare analyse maken. Hierbij is het belangrijk dat u geen hulpmiddelen gebruikt.
+ Alvast bedankt voor uw medewerking en veel succes gewenst bij het invullen van de vragenlijst en het doorlopen van de oefenmodule! 
 assignmentSpec:
   type: selection
   opts:
-    from: video
+    from: image
     to: text
     numberOfDistractors: 3
     presentationMode: sequential
-  numberOfItems: 9
-targetScore: 1
+  numberOfItems: 36
+targetScore: 50
 sources: 
   - instruction: >-
-        'Ze zEgt dat ze zeker naar de zee komt.' - Er is per video één correct antwoord. Duid aan over welk dialect het gaat en waarom. 
+        Welk van onderstaande zaken is een voorbeeld van een oromyofunctionele problematiek? 
     media:
-      - kaltura: https://kuleuven.mediaspace.kaltura.com/media/WV-zezegt/1_gg4z84mj
-      - text: West-Vlaams want de [ɛ] klinkt als een [æ] omdat deze te open wordt uitgesproken.   
+      - kaltura: 
+      - text: Duimzuigen, nagelbijten en keelschrapen 
     distractors: 
-      - text: Oost-Vlaams want de [ɛ] neigt naar een [e], omdat deze te gesloten wordt uitgesproken.     
-      - text: Oost-Vlaams want de [ɛ] wordt genasaliseerd uitgesproken. 
-      - text: De [ɛ] wordt adequaat uitgesproken.
+      - text: Liplikken, nagelbijten en keelschrapen  
+      - text: Nagelbijten, liplikken en duimzuigen
+      - text: Geen van deze antwoorden, dit is normaal gedrag 
   - instruction: >-
-        'Gebruik de jUIste UItdrukking.' - Er is per video één correct antwoord. Duid aan over welk dialect het gaat en waarom. 
+        Welk gebit wordt op onderstaande foto weergegeven?  
     media:
-      - kaltura: https://kuleuven.mediaspace.kaltura.com/media/8-Limburg-Gebruikdejuisteuitdrukking-mond+%E2%80%90+Gemaakt+met+Clipchamp.mp4/1_sulbrjay
-      - text: Limburgs want bij de diftong /ui/ wordt er te veel nadruk gelegd op de tweede klank.      
+      - kaltura: 
+      - text: Wisselend gebit 
     distractors: 
-      - text: Oost-Vlaams want de eerste klank van de diftong /ui/ neigt naar een [Ø.] omdat deze te gesloten wordt uitgesproken. Verder is er sprake van monoftongering. 
-      - text: Antwerps of Vlaams-Brabants want er is sprake van monoftongering van de diftong /ui/.
-      - text: West-Vlaams want de eerste klank van de diftong /ui/ neigt naar een [Ø.] omdat deze te gesloten wordt uitgesproken. Verder wordt er te veel nadruk gelegd op de tweede klank. 
+      - text: Melkgebit 
+      - text: Blijvend gebit
+      - text: Ik weet het niet 
   - instruction: >-
-        'In die kOU ben je gAUw verkOUden.' - Er is per video één correct antwoord. Duid aan over welk dialect het gaat en waarom. 
+        Wat is de juist opdeling van de tongspieren in intrinsieke en extrinsieke spieren? 
     media:
-      - kaltura: https://kuleuven.mediaspace.kaltura.com/media/37-WestVlaanderen-Indiekoubenjegauwverkouden+%E2%80%90+Gemaakt+met+Clipchamp.mp4/1_ka14p5i6
-      - text: West-Vlaams want de eerste klank van de diftong /ou/ neigt naar een [o.] omdat deze te gesloten wordt uitgesproken. De tweede klank klinkt als een [w]. 
+      - kaltura:
+      - text: Intrinsiek: m. longitudinalis inferior, m. longitudinalis superior, m. transversus, m. verticalis lingua. Extrinsiek:  m. genioglossus, m. styloglossus, m. hyoglossus en m. palatoglossus
     distractors: 
-      - text: Oost-Vlaams want de eerste klank van de diftong /ou/ neigt naar een [o.] omdat deze te gesloten wordt uitgesproken. Verder is er sprake van monoftongering. 
-      - text: Vlaams-Brabant want er is sprake van monoftongering van de diftong /ou/.
-      - text: De diftong /ou/ wordt adequaat uitgesproken.
-  - instruction: >-
-        'Hij gaat vIssen in het mIdden van de wInter.' - Er is per video één correct antwoord. Duid aan over welk dialect het gaat en waarom. 
-    media:
-      - kaltura: https://kuleuven.mediaspace.kaltura.com/media/40-VlaamsBrabant-Hijgaatvisseninhetmiddenvandewinter-mond+%E2%80%90+Gemaakt+met+Clipchamp.mp4/1_s725scq6
-      - text: Antwerps of Vlaams-Brabants want de [ɪ] klinkt eerder als een [i] omdat deze te gesloten wordt uitgesproken.     
-    distractors: 
-      - text: West-Vlaams of Oost-Vlaams want de [ɪ] klinkt eerder als een [ɛ] omdat deze te open wordt uitgesproken.  
-      - text: Antwerps of Vlaams-Brabants want de [ɪ] wordt verlengd uitgesproken. 
-      - text: De [ɪ] wordt adequaat uitgesproken. 
-  - instruction: >-
-        'De dAkpan valt van het dAk Af.' - Er is per video één correct antwoord. Duid aan over welk dialect het gaat en waarom. 
-    media:
-      - kaltura: https://kuleuven.mediaspace.kaltura.com/media/A-dedakpan/1_txh61kl9
-      - text: Antwerps want de [ɑ] wordt met een tongwelving te veel vooraan uitgesproken. Er is te veel spreiding en te weinig kaakval aanwezig.     
-    distractors: 
-      - text: Antwerps want de [ɑ] neigt meer naar een [ɔ], omdat deze met te veel spreiding wordt uitgesproken.        
-      - text: Oost-Vlaams want de [ɑ] klinkt eerder als een [a], omdat deze met te veel spreiding wordt uitgesproken.          
-      - text: Oost-Vlaams want de [ɑ] neigt meer naar een [ɔ], omdat deze met te veel kaakval wordt uitgesproken. 
-  - instruction: >-
-         'Er krUIpt een mUIs in de tUIn' - Er is per video één correct antwoord. Duid aan over welk dialect het gaat en waarom. 
-    media:
-      - kaltura: https://kuleuven.mediaspace.kaltura.com/media/4-Antwerpen-Erkruipteenmuisindetuin-mond+%E2%80%90+Gemaakt+met+Clipchamp.mp4/1_xtzwaoy7
-      - text: Vlaams-Brabants of Antwerps want er is sprake van monoftongering van de diftong /ui/. 
-    distractors: 
-      - text: Oost-Vlaams want de eerste klank van de diftong /ui/ neigt naar een [Ø.] omdat deze te gesloten wordt uitgesproken. Verder is er sprake van monoftongering. 
-      - text: West-Vlaams of Limburgs want de eerste klank van de diftong /ui/ neigt naar een [Ø.] omdat deze te gesloten wordt uitgesproken.
-      - text: De diftong /ui/ wordt adequaat uitgesproken. 
-  - instruction: >-
-        'De lEIder heeft ongetwIJfeld gelIJk.' - Er is per video één correct antwoord. Duid aan over welk dialect het gaat en waarom. 
-    media:
-      - kaltura: https://kuleuven.mediaspace.kaltura.com/media/27-Limburg-Deleider+%E2%80%90+Gemaakt+met+Clipchamp.mp4/1_86etdy9e
-      - text: Limburgs want bij de diftong /ei/ wordt er te veel nadruk gelegd op de tweede klank. 
-    distractors: 
-      - text: Antwerps of Vlaams-Brabants want de eerste klank van de diftong /ei/ klinkt eerder als een [ӕ.] omdat deze te open wordt uitgesproken. Verder is er sprake van monoftongering. 
-      - text: Limburgs want de eerste klank van de diftong /ei/ neigt naar een [e.] omdat deze te open wordt uitgesproken. Verder wordt de diftong verlengd.
-      - text: De diftong /ei/ wordt adequaat uitgesproken. 
-  - instruction: >-
-        'De bOOr schOOt met een stOOt naar vOren.' - Er is per video één correct antwoord. Duid aan over welk dialect het gaat en waarom. 
-    media:
-      - kaltura: https://kuleuven.mediaspace.kaltura.com/media/OV-deboor/1_rfyrceih
-      - text: Vlaams-Brabants want de [o:] en de [o.] worden verlengd en ongerond uitgesproken.     
-    distractors: 
-      - text: Antwerps want de [o:] wordt gediftongeerd.   
-      - text: Antwerps want de [o:] en de [o.] worden verlengd uitgesproken.  
-      - text: De [o:] en de [o.] worden adequaat uitgesproken.  
-  - instruction: >-
-        'De puber gaf de Uk een duw tijdens een ruzie' - Er is per video één correct antwoord. Duid aan over welk dialect het gaat en waarom. 
-    media:
-      - kaltura: https://kuleuven.mediaspace.kaltura.com/media/WV-depuber/1_107oq31m
-      - text: West-Vlaams want de [ʌ] klinkt als een [œ], omdat deze te open en ongerond wordt uitgesproken.   
-    distractors: 
-      - text: Limburgs want de [ʌ] wordt verlengd uitgesproken.
-      - text: West-Vlaams want de [ʌ] klinkt als een [y], omdat deze te gesloten wordt uitgesproken.  
-      - text: Oost-Vlaams want de [ʌ] wordt ongerond uitgesproken.
+      - text: Intrinsiek: m. longitudinalis inferior, m. palatoglossus, m. transversus, m. verticalis lingua. Extrinsiek:  m. genioglossus, m. styloglossus, m. hyoglossus en m. longitudinalis superior
+      - text: Intrinsiek: m. genioglossus, m. styloglossus, m. hyoglossus en m. longitudinalis superior Extrinsiek:  m. longitudinalis inferior, m. palatoglossus, m. transversus, m. verticalis lingua
+      - text: Ik weet het niet 
+ 
+-  instruction: >-
+         Welk slikpatroon hoort bij volgende omschrijving "bij een ... slikpatroon gaat de tong zicht tijdens de slik naar voren, tussen de tanden, begeven." 
+     media:
+       - kaltura: 
+       - text: Interdentaal
+     distractors: 
+       - text: Infantiel
+       - text: Addentaal
+       - text: Ik weet het niet 
+ -  instruction: >-
+        Wat betekent volgend begrip 'crowding'
+     media:
+       - kaltura: 
+       - text: Men spreekt van crowding wanneer er voor de tanden te weinig plaats is in de tandenboog om correct door te breken waardoor de tanden zullen verschuiven en scheef komen te staan. 
+     distractors: 
+       - text: Men spreekt van crowding wanneer een tand niet in de juiste positie doorbreekt in de tandenboog
+       - text: Men spreekt van crowding wanneer er een open ruimte of spleet aanwezig is tussen twee aangrenzende gebitselementen
+       - text: Ik weet het niet 
+ -  instruction: >-
+        Wat is de juiste definitie van disto-occlusie
+     media:
+       - kaltura: 
+       - text: Men spreekt van disto-occlusie wanneer de mandibula relatief te klein is en/of de maxilla te groot.
+     distractors: 
+       - text: Men spreekt van disto-occlusie wanneer er sprake is van een opening tussen tanden van de maxilla en de mandibula.
+       - text: Men spreekt van disto-occlusie wanneer de mandibulaire tandenboog zich anterieur positioneert ten opzichte van de maxillaire tandenboog.
+       - text: Ik weet het niet 
+  -  instruction: >-
+        Welke anatomische structuur wordt op onderstaande afbeelding aangeduid? 
+     media:
+       - kaltura: 
+       - text: Tongfrenulum
+     distractors: 
+       - text: Lingua plicata
+       - text: Tongrand
+       - text: Ik weet het niet 
+ -  instruction: >-
+      Wat is de benaming van de aangeduide tanden?   
+     media:
+       - kaltura: 
+       - text: Rood = een cuspidaat, groen = molaar, blauw = incisief
+     distractors: 
+       - text: Rood = incisief, groen = premolaar, blauw = cuspidaat 
+       - text: Rood = cuspidaat, groen = premolaar, blauw = incisief 
+       - text: Ik weet het niet 
+ -  instruction: >-
+       Zou u denken dat addentaliteit een oromyofunctionele problematiek is? 
+     media:
+       - kaltura: 
+       - text: Ja
+     distractors: 
+       - text: Nee
+       - text: Soms
+       - text: Ik weet het niet 
+ -  instruction: >-
+        Zou u denken dat foutief stemgebruik (bv. heesheid) een oromyofunctionele problematiek is? 
+     media:
+       - kaltura: 
+       - text: Nee
+     distractors: 
+       - text: Ja
+       - text: Soms
+       - text: Ik weet het niet 
+ -  instruction: >-
+       Kan een verkeerde tongpositie tijdens het slikken een invloed hebben op de stand van de tanden?
+     media:
+       - kaltura: 
+       - text: Ja
+     distractors: 
+       - text: Nee
+       - text: Soms
+       - text: Ik weet het niet 
+ -  instruction: >-
+        Wat is hier afgebeeld? 
+     media:
+       - kaltura: 
+       - text: Overbeet 
+     distractors: 
+       - text: Overjet
+       - text: Open beet 
+       - text: Ik weet het niet 
+ -  instruction: >-
+        Wat is hier afgebeeld? 
+     media:
+       - kaltura: 
+       - text: Deviatie middenlijn 
+     distractors: 
+       - text: Crowding
+       - text: Diasteem
+       - text: Ik weet het niet 
+ -  instruction: >-
+        Wat is hier afgebeeld? 
+     media:
+       - kaltura: 
+       - text: Diepe beet
+     distractors: 
+       - text: Open beet
+       - text: Overbeet
+       - text: Ik weet het niet 
+ -  instruction: >-
+        Welke nummering hoort bij de aangeduide tanden? 
+     media:
+       - kaltura: 
+       - text: A=13, B=31, C=22
+     distractors: 
+       - text: A=31, B=13, C=22
+       - text: A=13, B=41, C=22
+       - text: Ik weet het niet
+ -  instruction: >-
+        Welke spier wordt er op deze afbeelding aangeduid? 
+     media:
+       - kaltura: 
+       - text: m. masseter
+     distractors: 
+       - text: m. mentalis
+       - text: m. orbicularis oris 
+       - text: Ik weet het niet 
+ -  instruction: >-
+        Welk achterliggend slikpatroon verwacht u bij het zien van deze beet?
+     media:
+       - kaltura: 
+       - text: Interdentaal slikpatroon
+     distractors: 
+       - text: Infantiel slikpatroon
+       - text: Addentaal slikpatroon
+       - text: Ik weet het niet 
+ -  instruction: >-
+        Welke definitie hoort bij het begrip 'diasteem'?
+     media:
+       - kaltura: 
+       - text: Men spreekt over een diasteem wanneer er een open ruimte of spleet aanwezig is tussen twee aangrenzende gebitselementen
+     distractors: 
+       - text: Men spreekt over een diasteem wanneer er voor de tanden te weinig plaats is in de tandenboog om correct door te breken waardoor de tanden zullen verschuiven en scheef komen te staan 
+       - text: Men spreekt over een diasteem wanneer er een tand mist in de tandenboog
+       - text: Ik weet het niet 
+ -  instruction: >-
+        Wat is de functie van de m. mentalis?
+     media:
+       - kaltura: 
+       - text: De heffing en protrusie van de kin
+     distractors: 
+       - text: Het naar binnen trekken van de wangen
+       - text: Het tuiten en samentrekken van de lippen
+       - text: Ik weet het niet
+ -  instruction: >-
+        Welk slikpatroon wordt er weergegeven op onderstaande video? 
+     media:
+       - kaltura: 
+       - text: Normaal slikpatroon
+     distractors: 
+       - text: Interdentaal slikpatroon
+       - text: Addentaal slikpatroon
+       - text: Ik weet het niet 
+ -  instruction: >-
+        Welk type occlusie wordt er weergegeven op onderstaande foto? 
+     media:
+       - kaltura: 
+       - text: Disto-occlusie
+     distractors: 
+       - text: Neutro-occlusie
+       - text: Mesio-occlusie
+       - text: Ik weet het niet 
+ -  instruction: >-
+        Welke anatomische structuur wordt er op deze foto aangeduid?
+     media:
+       - kaltura: 
+       - text: Farynxachterwand
+     distractors: 
+       - text: Keelholte
+       - text: Zacht verhemelte
+       - text: Ik weet het niet 
+ -  instruction: >-
+        Welke spier wordt er aangeduid op onderstaande afbeelding?
+     media:
+       - kaltura: 
+       - text: m. levator labii superioris
+     distractors: 
+       - text: m. buccinator
+       - text: m. depressor labii inferioris 
+       - text: Ik weet het niet 
+ -  instruction: >-
+        Wat is de definitie van occlusie type II.2?
+     media:
+       - kaltura: 
+       - text: Type II.2 occlusie wordt gekenmerkt door een linguale inclinatie van de maxillaire centrale incisieven
+     distractors: 
+       - text: Type II.2 occlusie wordt gekenmerkt door maxillaire incisieven die een normale labiale inclinatie vertonen
+       - text: Type II.2 occlusie wordt gekenmerkt door een opening tussen tanden van de maxilla en de mandibula
+       - text: Ik weet het niet 
+ -  instruction: >-
+        Welke onderdelen van de lip worden hier aangeduid? 
+     media:
+       - kaltura: 
+       - text: Het philtrum (paars) en de commissuur (rood)
+     distractors: 
+       - text: De commissuur (paars) en de cupidoboog (rood)
+       - text: De vermiljoenrand (paars) en de cupidoboog (rood)
+       - text: Ik weet het niet 
+ -  instruction: >-
+        Welke spier vervult volgende functie 'het eleveren van de mondhoek en het naar achter plaatsen hiervan.'?
+     media:
+       - kaltura: 
+       - text: m. zygomaticus
+     distractors: 
+       - text: m. platysma
+       - text: m. risorius
+       - text: Ik weet het niet 
+ -  instruction: >-
+        Wat is de juiste definitie van de normale rustpositie van de tong? 
+     media:
+       - kaltura: 
+       - text: In rust is de tong aangezogen tegen het verhemelte waarbij de tongtip op of tegen de alveolaire richel rust zonder hierbij contact te maken met de tanden van de maxilla
+     distractors: 
+       - text: In rust ligt de tong op de mondbodem en rust de tongtip lichtjes tegen tanden van de mandibula
+       - text: In rust ligt de tong op de mondbodem en rust de tongtip op of tegen de alveolaire richel zonder hierbij contact te maken met de tanden van de maxilla
+       - text: Ik weet het niet 
+ -  instruction: >-
+        Welke functie vervult de m. styloglossus 
+     media:
+       - kaltura: 
+       - text: m. styloglossus staat in voor de retrusie van de tong en de elevatie van de laterale delen
+     distractors: 
+       - text: m. styloglossus staat in voor de elevatie van het achterste deel van de tong en initiatie van de slik
+       - text: m. styloglossus staat in voor de depressie van de onderlip
+       - text: Ik weet het niet 
+ -  instruction: >-
+        Wat is de beste uitleg voor het begrip 'ankyloglossie'?
+     media:
+       - kaltura: 
+       - text: Ankyloglossie is een aangeboren aandoening waarbij de tongriem te kort of te strak is
+     distractors: 
+       - text: Ankyloglossie is een aangeboren aandoening waarbij de tong te breed is om in de mondholte te passen
+       - text: Ankyloglossie is een aangeboren aandoening waarbij de speekselklieren on de tong afwezig zijn
+       - text: Ik weet het niet 
+ -  instruction: >-
+        Welke spier wordt er op deze afbeelding aangeduid?
+     media:
+       - kaltura: 
+       - text: m. buccinator
+     distractors: 
+       - text: m. platysma
+       - text: m. zygomaticus
+       - text: Ik weet het niet 
+ -  instruction: >-
+        Wat is de juiste indeling van kwadranten in de orale caviteit?    
+      media:
+       - kaltura: 
+       - text: rood = kwadrant 1, groen = kwadrant 3, blauw = kwadrant 4, geel = kwadrant 2   
+      distractors: 
+       - text: rood = kwadrant 2, groen = kwadrant 3, blauw = kwadrant 4, geel = kwadrant 1
+       - text: rood = kwadrant 1, groen = kwadrant 4, blauw = kwadrant 2, geel = kwadrant 3
+       - text: Ik weet het niet 
+ -  instruction: >-
+        Welke anatomische structuur wordt er aangeudid op onderstaande foto?  
+     media:
+       - kaltura: 
+       - text: Palatoglossale boog
+     distractors: 
+       - text: Palatopharyngeale boog 
+       - text: Tonsillen
+       - text: Ik weet het niet 
+ -  instruction: >-
+        Welke spier wordt aangeduid op onderstaande afbeelding?
+     media:
+       - kaltura: 
+       - text: m. mentalis
+     distractors: 
+       - text: m. pterygoideus
+       - text: m. depressor anguli oris 
+       - text: Ik weet het niet 
+ -  instruction: >-
+        Wat valt er op bij deze beet?
+     media:
+       - kaltura: 
+       - text: Beide zijn correct
+     distractors: 
+       - text: Er is een opening tussen de voorste tanden van de maxilla en de mandibula. Dit wordt een anterieure open beet genoemd
+       - text: De tanden van de maxilla staan meer naar voren staan dan de tanden van de mandibula. Dit wordt een horizontale overbeet genoemd
+       - text: Ik weet het niet 
+ -  instruction: >-
+        Wat valt er op in het onderfront?
+     media:
+       - kaltura: 
+       - text: Crowding 
+     distractors: 
+       - text: Niets opvallend
+       - text: Ectopische eruptie
+       - text: Ik weet het niet 
+ -  instruction: >-
+        Wat valt er op in het bovenfront? 
+     media:
+       - kaltura: 
+       - text: Diasteem
+     distractors: 
+       - text: Crowding
+       - text: Niets opvallend
+       - text: Ik weet het niet 
